@@ -4,4 +4,3 @@ Bem vindos ao nosso mural
 # avisos
 Nem um aviso cadastrado ainda
 # desenvolvedores 
-José do Sal E Samucão
